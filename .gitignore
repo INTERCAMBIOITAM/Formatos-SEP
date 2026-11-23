@@ -1,0 +1,7 @@
+venv/
+LIC/
+POSGRADO/
+*.xlsx
+*.xls
+*.pdf
+__pycache__/
